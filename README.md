@@ -1,78 +1,153 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vinay%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Computer%20Vision%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=16" width="100%" />
-</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vinay-sharma-762308329" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/vina_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/vsiiitdm" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=Vinay%20Sharma&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=teaching%20machines%20to%20see%2C%20map%20and%20fly&descAlignY=62&descSize=17" width="100%" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Computer+Vision+%C2%B7+Autonomous+Systems;Medical+AI+%C2%B7+Multi-Agent+NLP;ROS2+%C2%B7+Jetson+%C2%B7+SLAM;Full-Stack+with+FastAPI+%2B+React" alt="Typing SVG" />
+</a>
 
-### 🧠 About Me
+<br/>
 
-- 🎓 Computer Science & Engineering at **IIITDM Kancheepuram**
-- 🔬 **Ex-Research Intern at IIT Mandi** — focused on deep learning & computer vision
-- 👁️ Building intelligent vision systems, medical imaging pipelines, and generative AI agents
-- ⚡ Active competitive programmer sharpening algorithmic problem-solving on **LeetCode** & **Codeforces**
+<a href="https://linkedin.com/in/vinay-sharma-762308329"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" /></a>
+<a href="mailto:me24b2055@iiitdm.ac.in"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335" /></a>
+<a href="https://leetcode.com/u/vina_/"><img src="https://img.shields.io/badge/LeetCode-450+-0d1117?style=flat-square&logo=leetcode&logoColor=ffa116" /></a>
+<a href="https://codeforces.com/profile/vsiiitdm"><img src="https://img.shields.io/badge/Codeforces-150+-0d1117?style=flat-square&logo=codeforces&logoColor=1f8acb" /></a>
+<img src="https://komarev.com/ghpvc/?username=VinaySharma-hub&label=Views&color=1f6feb&style=flat-square" />
 
----
-
-### 🚀 Featured Work
-
-| Project | Domain | Description |
-| :--- | :--- | :--- |
-| **[Benchmarking Fetal Classification](https://github.com/VinaySharma-hub/Benchmarking_Model_fetal_classification)** | `Medical CV` | Comparative benchmarking of deep learning architectures for fetal ultrasound classification. |
-| **[Cardiac Image Project](https://github.com/VinaySharma-hub/Cardiac_Image_Project-)** | `Medical Imaging` | Computer vision pipeline for cardiac image analysis and segmentation. |
-| **[Football Analysis](https://github.com/VinaySharma-hub/Football_analysis)** | `Object Tracking` | Sports analytics using object detection, tracking, and perspective transformation. |
-| **[GenAI Agentic AI Security](https://github.com/VinaySharma-hub/GenAI-Agentic-AI-Security-)** | `Agentic AI` | Exploring security vulnerabilities, guardrails, and robustness in autonomous LLM agents. |
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**AI / ML & Computer Vision**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
----
-
-### 📊 Live Coding & GitHub Metrics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VinaySharma-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinaySharma-hub&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
+```python
+class Vinay:
+    def __init__(self):
+        self.role     = "AI/ML Engineer & Full-Stack Developer"
+        self.college  = "IIITDM Kancheepuram · Minor in Machine Learning"
+        self.focus    = ["Computer Vision", "Autonomous Systems", "Medical Imaging", "Multi-Agent NLP"]
+        self.building = "Perception stacks that work without GPS & AI products that protect people"
+        self.off_duty = "Grinding DSA on LeetCode & Codeforces"
+
+    def say_hi(self):
+        return "Let's build something that actually works in the real world."
+```
+
+<br/>
+
+## ⚡ What I'm into
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚁 Robots that see
+Real-time **Visual SLAM** and **YOLOv8** on **Jetson Nano** with **ROS2** for drones that navigate in GPS-denied spaces. Built for ISRO IROC and SAE Aerothon.
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 AI for healthcare
+Benchmarking medical foundation models on **fetal ultrasound** and segmenting **cardiac MRI** with U-Net. Research at **CAIR, IIT Mandi**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Agents & NLP
+Multi-agent ranking pipelines, similarity scoring and fraud-signal detection that stay explainable.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 End-to-end products
+Model to API to UI. **FastAPI**, **React**, **WebSockets** and **Supabase**, shipped as real systems rather than notebooks.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/VinaySharma-hub/AESIS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinaySharma-hub&repo=AESIS&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+  <sub>🛡️ <b>AEGIS</b> · Real-time fraud prevention for seniors with a risk engine, cooling-off holds and live caregiver alerts.</sub>
+</td>
+<td width="50%">
+  <a href="https://github.com/VinaySharma-hub/Benchmarking_Model_fetal_classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinaySharma-hub&repo=Benchmarking_Model_fetal_classification&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+  <sub>🔬 <b>Fetal Ultrasound Benchmark</b> · 6 medical foundation models compared, FetalCLIP tuned for +3 pts accuracy.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/VinaySharma-hub/Cardiac_Image_Project-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinaySharma-hub&repo=Cardiac_Image_Project-&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+  <sub>❤️ <b>Cardiac MRI Segmentation</b> · U-Net on ACDC 2017 for LV, RV and myocardium.</sub>
+</td>
+<td width="50%">
+  <a href="https://github.com/VinaySharma-hub/Football_analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinaySharma-hub&repo=Football_analysis&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+  <sub>⚽ <b>Football Analytics</b> · YOLOv5 tracking, K-Means team clustering and optical-flow camera compensation.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/VinaySharma-hub/RedrobAIChallenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VinaySharma-hub&repo=RedrobAIChallenge&theme=tokyonight&hide_border=true&border_radius=12" />
+  </a>
+  <sub>🎯 <b>Redrob AI</b> · Multi-agent candidate ranking with honeypot detection for unreliable submissions.</sub>
+</td>
+<td width="50%" align="center" valign="middle">
+  <a href="https://github.com/VinaySharma-hub?tab=repositories">
+    <img src="https://img.shields.io/badge/See_all_repositories_→-1f6feb?style=for-the-badge" />
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Toolbox
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/vina_?theme=dark&font=Syne%20Mono&ext=heatmap" width="48%" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vsiiitdm&theme=tokyonight" width="48%" />
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,tailwind,postgres,mongodb,supabase&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=ros,docker,aws,git,linux&theme=dark" />
+
 </div>
 
----
+<br/>
+hub&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/vina_?theme=dark&font=Syne%20Mono&ext=heatmap" width="48%" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=vsiiitdm&theme=tokyonight" width="48%" />
+
+<br/><br/>
+
+
+</div>
+
+<br/>
+
+## 📫 Let's talk
+
+Open to collaborations in **computer vision, robotics and applied AI**. If you've got an interesting problem, my inbox is open: **me24b2055@iiitdm.ac.in**
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VinaySharma-hub&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
 </div>
